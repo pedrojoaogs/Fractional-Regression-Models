@@ -1,4 +1,4 @@
-# Fractional-Regression-Models - Stata
+# Fractional-Regression Models - Stata
 Fractional Regression Models - Infrastructure Investments 
 
 ***Fractional Regression Models**
